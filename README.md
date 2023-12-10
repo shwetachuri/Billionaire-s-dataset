@@ -7,3 +7,7 @@ The richest 1% owns almost half of the world’s wealth and accounts for almost 
 # Metrics  
 
 Some of the metrics that we used to measure results were demographic metrics such as the age distribution of billionaires and the gender distribution among billionaires.  For wealth and GDP metrics we used a comparison of total wealth of billionaires compared to the GDP among countries.  We also used a distribution of wealth by industry (tech, finance, retail, etc...), and the most common and frequent source of wealth.  For net worth metrics, we used the total net worth distribution and the top 10 countries with billionaires.   
+
+# Data​
+Data Source:​
+Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset​

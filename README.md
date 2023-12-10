@@ -1,4 +1,4 @@
-# Billionaire-s-dataset
+# I Wanna Be A Billionaire Description
 The "I Wanna Be A Billionaire" project is driven by the desire to assist people and businesses in realizing their wealth-related objectives as well as the goal of financial empowerment.Many people dream of becoming billionaires, but few achieve this goal. This project aims to uncover insights and patterns among billionaires that could reveal how they attained their wealth. The Data set we utilized is from Kaggle and additional input data is from Google searches for missing information from data set obtained from Kaggle. 
 
 # Problem statement  
